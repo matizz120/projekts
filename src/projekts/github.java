@@ -7,7 +7,6 @@ public class github {
 		int x = 4, y = 6;
 		System.out.print(" x + y = "+(x+y));
 		System.out.println("Sveiki!");
-
 	}
 
 }
