@@ -1,10 +1,10 @@
-# Programmçðana
-*Ðî ir lapa par GitHub*
+# Programmeshana
+*Si ir lapa par GitHub*
 
 * Git
 	*GitHub
 
-![GitHub](https://miro.medium.com/max/8642/1*iIXOmGDzrtTJmdwbn7cGMw.png)
+![GitHub](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Octicons-logo-github.svg/1200px-Octicons-logo-github.svg.png)
 
 - [x] Pirmâ projekta uzsâkðana
 - [ ] Izgrûðana uz GitHub
